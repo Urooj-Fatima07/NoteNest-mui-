@@ -1,0 +1,76 @@
+{
+  "notes": [
+    {
+      "title": "Yoshi's birthday bash",
+      "details": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "category": "reminders",
+      "id": "1"
+    },
+    {
+      "title": "Order a pizza!",
+      "details": "Lorem Ipsum is Lorem Ipsum has been the industry's standar Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "category": "todos",
+      "id": "2"
+    },
+    {
+      "id": "3",
+      "title": "Completing project",
+      "details": "Lorem Ipsum is Lorem Ipsum has been the industry's standar Lorem Ipsum has been the industry's standard dummy ",
+      "category": "todos"
+    },
+    {
+      "title": "Buy groceries",
+      "details": "Milk, eggs, bread, and vegetables.",
+      "category": "todos",
+      "id": "4"
+    },
+    {
+      "title": "Call the dentist",
+      "details": "Schedule a check-up for next week.",
+      "category": "reminders",
+      "id": "5"
+    },
+    {
+      "title": "Finish reading book",
+      "details": "Complete the last chapter of 'The Great Gatsby'.",
+      "category": "personal",
+      "id": "6"
+    },
+    {
+      "title": "Plan weekend trip",
+      "details": "Research destinations and book accommodations.",
+      "category": "personal",
+      "id": "7"
+    },
+    {
+      "title": "Submit tax return",
+      "details": "Prepare and file the annual tax return.",
+      "category": "work",
+      "id": "8"
+    },
+    {
+      "title": "Update resume",
+      "details": "Revise work experience and skills section.",
+      "category": "work",
+      "id": "9"
+    },
+    {
+      "title": "Buy a new laptop",
+      "details": "Look for deals on laptops with high performance.",
+      "category": "personal",
+      "id": "10"
+    },
+    {
+      "title": "Attend meeting with team",
+      "details": "Discuss project progress and next steps.",
+      "category": "work",
+      "id": "11"
+    },
+    {
+      "title": "Book dinner reservation",
+      "details": "Reserve a table for two at the new restaurant.",
+      "category": "personal",
+      "id": "12"
+    }
+  ]
+}
